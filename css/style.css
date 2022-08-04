@@ -1,0 +1,30 @@
+body {
+    background: rgb(43, 142, 255);
+ 
+}
+
+header {
+    color: white;
+    font: normal Arial;
+    text-align: center;
+}
+
+section {
+    width: 500px;
+    height: auto;
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px;
+    background: white;
+}
+section p{
+    margin-bottom: 10pt;
+}
+
+
+footer{
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+
+}
